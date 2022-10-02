@@ -36,10 +36,10 @@ The high score database only works if you have a database server running. This c
 **Music:**
 * Timesplitters 2 - Astrolander
 * Unreal Tournament - Foregone Destruction
-* Need for Speed III - Hydrus 606
-* Need For Speed III - Romulus 3 (Mellow Sonic 2nd Remix)
+* Ion Fury - Solid
+* Ion Fury - Quadrature
 * Timesplitters Future Perfect - Spaceport
-* Timesplitters 2 - Ice Station
+* Unreal Tournament - Razorback
 * Re-Volt - Credits
 * Timesplitters 2 - Mission Success
 * Timesplitters 2 - Mission Failed
