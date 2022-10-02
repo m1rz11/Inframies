@@ -101,7 +101,7 @@ let nextEnemy = 0;
 let waveIndex = 0;
 
 const CREDITS = ['InframiesTD v1.0.5\n\n Credits: \n mirzi - Game programming\nELdii - Database and backend programming\nROGERsvk - Graphic design, UI design\n' +
-                '\nMusic used:\nTimesplitters 2 - Astrolander\nUnreal Tournament - Foregone Destruction\nNeed for Speed III - Hydrus 606\nNeed For Speed III - Romulus 3 (Mellow Sonic 2nd Remix)\nTimesplitters Future Perfect - Spaceport\nTimesplitters 2 - Ice Station\nRe-Volt - Credits\nTimesplitters 2 - Mission Success\nTimesplitters 2 - Mission Failed\n' +
+                '\nMusic used:\nTimesplitters 2 - Astrolander\nUnreal Tournament - Foregone Destruction\nIon Fury - Solid\nIon Fury - Quadrature\nTimesplitters Future Perfect - Spaceport\nUnreal Tournament - Razorback\nRe-Volt - Credits\nTimesplitters 2 - Mission Success\nTimesplitters 2 - Mission Failed\n' +
                 '\nSound effects are mostly mashups from freesound.org.\nSource code is available at github.com/mirzi1/InframiesTD\nShoutouts to the Phaser devs. This game wouldn\'t be a reality without their game framework.\n\n']
 
 const TOWER_PRICES = [250,400,450,1000,700,600,3000,4000];
@@ -483,16 +483,16 @@ function preload(){
         'assets/music/Unreal Tournament - Foregone Destruction.ogg','assets/music/Unreal Tournament - Foregone Destruction.mp3'
     ]);
     this.load.audio('bgm2', [
-        'assets/music/Need for Speed III - Hydrus 606.ogg','assets/music/Need for Speed III - Hydrus 606.mp3'
+        'assets/music/solid.ogg','assets/music/solid.mp3'
     ]);
     this.load.audio('bgm3', [
-        'assets/music/Need For Speed III - Romulus 3 (Mellow Sonic 2nd Remix).ogg','assets/music/Need For Speed III - Romulus 3 (Mellow Sonic 2nd Remix).mp3'
+        'assets/music/quadrature.ogg','assets/music/quadrature.mp3'
     ]);
     this.load.audio('bgm4', [
         'assets/music/Timesplitters Future Perfect - Spaceport.ogg','assets/music/Timesplitters Future Perfect - Spaceport.mp3'
     ]);
     this.load.audio('bgm5', [
-        'assets/music/Timesplitters 2 - Ice Station.ogg','assets/music/Timesplitters 2 - Ice Station.mp3'
+        'assets/music/razorback.ogg','assets/music/razorback.mp3'
     ]);
 }
 
