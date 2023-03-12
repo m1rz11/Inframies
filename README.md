@@ -1,9 +1,9 @@
 # InframiesTD
 Space themed tower defence game
 
-[Play the latest dev version](https://mirzi1.github.io/Inframies/)
+[Play the latest dev version](https://m1rz11.github.io/Inframies/)
 
-[Classic (pre-nerf 1.0.5) version is available here](https://mirzi1.github.io/Inframies/classic.html)
+[Classic (pre-nerf 1.0.5) version is available here](https://m1rz11.github.io/Inframies/classic.html)
 
 ![Screenshot](https://i.imgur.com/tcFc2JA.gif)
 ![Screenshot2](https://i.imgur.com/CKeVi9M.jpg)
